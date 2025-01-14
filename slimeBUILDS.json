@@ -1,14 +1,14 @@
 {
  "TOTAL_MEMORY": 268435456,
  "companyName": "Snubs",
- "dataUrl": "https://drive.usercontent.google.com/uc?id=1rCsEjY8FZtQA--hT0RReRWd4zCW_mPi3&authuser=0",
+ "dataUrl": "https://drive.usercontent.google.com/u/0/uc?id=1JCcwhm6ZwJs6KA0pGCg4ppAw-EOvv3wR&export=download",
  "graphicsAPI": [
   "WebGL 2.0"
  ],
  "productName": "SlimeRancher Prototype",
  "splashScreenStyle": "Dark",
- "wasmCodeUrl": "./slimeBUILDS.wasm.code.unityweb",
- "wasmFrameworkUrl": "./slimeBUILDS.wasm.framework.unityweb",
+ "wasmCodeUrl": "https://drive.usercontent.google.com/u/0/uc?id=1bmwfF8ryipn2hDWY_OrBvRAqbFJPbtcF&export=download",
+ "wasmFrameworkUrl": "https://drive.usercontent.google.com/u/0/uc?id=1VFuaOGJui-A5cCJB-ltl6ruihRsdhKVm&export=download",
  "webglContextAttributes": {
   "preserveDrawingBuffer": false
  }
